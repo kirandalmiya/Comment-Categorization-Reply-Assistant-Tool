@@ -70,15 +70,16 @@ python src/app_cli.py --input data/sample_comments.csv --output data/output.csv
 ## 🎨 Features Demo
 
 ### Web Interface (Streamlit)
-![Streamlit Demo](screenshots/streamlit-demo.png)
+![Streamlit Demo](screenshots/Comment Categorization Assistant_LR.pdf)
+
+![Streamlit Demo](screenshots/Comment Categorization Assistant_LR.pdf)
 
 ### CLI Output Example
+
 Label: constructive_criticism
+
 Reply: Thank you for the honest feedback. We'll review this and work on improving.
 
-
-### Category Distribution Chart
-![Category Chart](screenshots/category-chart.png)
 
 ## 📁 Project Structure
 
@@ -194,5 +195,6 @@ numpy>=1.24.0
 screenshots/
 ├── Comment Categorization Assistant_svm.pdf
 └── Comment Categorization Assistant_LR.pdf
+
 
 
