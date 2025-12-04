@@ -83,14 +83,23 @@ Reply: Thank you for the honest feedback. We'll review this and work on improvin
 ## 📁 Project Structure
 
 comment_categorization_project/
+
 ├── README.md # 📄 This file
+
 ├── requirements.txt # 📦 Dependencies
+
 ├── streamlit_app.py # 🌐 Web UI
+
 ├── src/
+
 │ ├── train.py # 🤖 Model training
+
 │ ├── inference.py # 🔍 Prediction logic
+
 │ ├── replies.py # 💬 Reply templates
+
 │ └── app_cli.py # ⌨️ Command line interface
+
 └── data/ # 📊 Sample data (gitignore'd)
 
 
@@ -185,4 +194,5 @@ numpy>=1.24.0
 screenshots/
 ├── Comment Categorization Assistant_svm.pdf
 └── Comment Categorization Assistant_LR.pdf
+
 
