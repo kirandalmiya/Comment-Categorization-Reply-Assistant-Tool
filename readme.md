@@ -72,12 +72,12 @@ python src/app_cli.py --input data/sample_comments.csv --output data/output.csv
 ## 🎨 Features Demo
 
 ### Web Interface (Streamlit)
-[![Streamlit Demo - Logistic Regression](screenshots/Comment Categorization Assistant_LR.pdf)](screenshots/Comment Categorization Assistant_LR.pdf)
-[![Streamlit Demo - SVM Model](screenshots/Comment Categorization Assistant_svm.pdf)](screenshots/Comment Categorization Assistant_svm.pdf)
 
-**Click images to view full PDF screenshots of the working app!**
+**Live Demo Screenshots:**
 
-### CLI Output Example
+- [📱 Logistic Regression Model Demo](screenshots/Comment%20Categorization%20Assistant_LR.pdf)
+- [📱 SVM Model Demo](screenshots/Comment%20Categorization%20Assistant_svm.pdf)
+
 
 
 ### CLI Output Example
@@ -201,6 +201,7 @@ numpy>=1.24.0
 screenshots/
 ├── Comment Categorization Assistant_svm.pdf
 └── Comment Categorization Assistant_LR.pdf
+
 
 
 
